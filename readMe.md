@@ -1,26 +1,26 @@
-Programa desenvolvido para o CCH(Complemento de Carga Horária) da disciplina de Pesquisa e Ordenação de Dados.
-Curso de Engenharia de Computação.
-UTFPR(Universidade Tecnológica Federal do Paraná) câmpus Toledo. 
+Programa desenvolvido para o CCH(Complemento de Carga HorÃ¡ria) da disciplina de Pesquisa e OrdenaÃ§Ã£o de Dados.
+Curso de Engenharia de ComputaÃ§Ã£o.
+UTFPR(Universidade TecnolÃ³gica Federal do ParanÃ¡) cÃ¢mpus Toledo. 
 2018/1.
 
 -----------------------------------------------------------------------------------------------------------------------
 			
-			#	Algorítimo de Ordenação Externa
+				AlgorÃ­timo de OrdenaÃ§Ã£o Externa
 
 Notas:
-* A entrada deve ser feita através de um arquivo chamado "entrada.txt" e os números separados por espaços.
-A saída contendo a entrada ordenada ocorrerá através de um arquivo chamado "saida.txt", com os elementos separados por espaços.
+* A entrada deve ser feita atravÃ©s de um arquivo chamado "entrada.txt" e os nÃºmeros separados por espaÃ§os.
+A saÃ­da contendo a entrada ordenada ocorrerÃ¡ atravÃ©s de um arquivo chamado "saida.txt", com os elementos separados por espaÃ§os.
 
 * O programa foi implementado tendo como base uma pilha de 100 elementos. 
 Para trocar, basta alterar O #define MEM_MAX no "div-merge.h" colocando-se o valor desejado. 
-OBS: Note que nem sempre será possível ordenar uma quantia de números com uma pilha de tamanho N, 
-pois deve-se respeitar o seguinte cálculo: 
+OBS: Note que nem sempre serÃ¡ possÃ­vel ordenar uma quantia de nÃºmeros com uma pilha de tamanho N, 
+pois deve-se respeitar o seguinte cÃ¡lculo: 
 
-P² = Nºmax. elementos, ou
-sqrt(Nºelementos) = P.mínimo,  onde P é o tamanho da pilha
+PÂ² = NÂºmax. elementos, ou
+sqrt(NÂºelementos) = P.mÃ­nimo,  onde P Ã© o tamanho da pilha
 
-Ou seja, para uma pilha de tamanho 100, o número máximo de elementos constando na entrada deve ser de 10000.
-Em outras palavras, o tamanho mínimo de sua pilha deve ser igual à raiz quadrada da quantidade de elementos
+Ou seja, para uma pilha de tamanho 100, o nÃºmero mÃ¡ximo de elementos constando na entrada deve ser de 10000.
+Em outras palavras, o tamanho mÃ­nimo de sua pilha deve ser igual Ã  raiz quadrada da quantidade de elementos
 (Em caso de decimais o teto do seu valor).
 
 -----------------------------------------------------------------------------------------------------------------------
