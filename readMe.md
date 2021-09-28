@@ -5,7 +5,7 @@ UTFPR(Universidade Tecnológica Federal do Paraná) câmpus Toledo.
 
 -----------------------------------------------------------------------------------------------------------------------
 			
-				Algorítimo de Ordenação Externa
+# Algorítimo de Ordenação Externa
 
 Notas:
 * A entrada deve ser feita através de um arquivo chamado "entrada.txt" e os números separados por espaços.
