@@ -1,6 +1,6 @@
 Programa desenvolvido para o CCH(Complemento de Carga Horária) da disciplina de Pesquisa e Ordenação de Dados.
 Curso de Engenharia de Computação.
-UTFPR(Universidade Tecnológica Federal do Paraná) câmpus Toledo. 
+UTFPR(Universidade Tecnológica Federal do Paraná) câmpus Toledo.
 2018/1.
 
 -----------------------------------------------------------------------------------------------------------------------
